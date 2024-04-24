@@ -14,7 +14,7 @@ The `index.html` file represents a structured balance sheet for AcmeWidgetCorp, 
 
 ## Screenshots
 
-![Balance Sheet](screenshot.png)
+![Balance Sheet](./ss.png)
 
 ## Installation
 
