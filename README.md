@@ -14,7 +14,7 @@ The `index.html` file represents a structured balance sheet for AcmeWidgetCorp, 
 
 ## Screenshots
 
-![Balance Sheet](./ss.png)
+![Balance Sheet](ss.png)
 
 ## Installation
 
@@ -24,6 +24,10 @@ To view the balance sheet locally, follow these steps:
 
    ```bash
    git@github.com:Manglam11/pseudo-selectors.git
+   ```
+
+2. Live preview:
+   [Here](https://manglam11.github.io/pseudo-selectors/)
 
 # Technologies Used
 
@@ -32,7 +36,7 @@ To view the balance sheet locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Please submit bug reports or feature requests via the [Issues]([https://github.com/username/repository/](https://github.com/Manglam11/pseudo-selectors.git)) section.
+Contributions are welcome! Please submit bug reports or feature requests via the [Issues](<[https://github.com/username/repository/](https://github.com/Manglam11/pseudo-selectors.git)>) section.
 
 ## License
 
